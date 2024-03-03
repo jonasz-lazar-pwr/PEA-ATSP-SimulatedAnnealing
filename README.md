@@ -1,1 +1,1 @@
-# PEA-ATSP-SimulatedAnnealing
+# Implementation of the SA algorithm
