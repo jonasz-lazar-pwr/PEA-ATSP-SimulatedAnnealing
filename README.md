@@ -1,1 +1,1 @@
-# Implementation of the SA algorithm
+# Implementation of the SA algorithm for TSP problem
